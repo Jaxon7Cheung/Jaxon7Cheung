@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 2104526824@qq.com & zxy2104526824@gmail.com
 - ⚡ Fun fact: I play YO-YO.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaxon7Cheung&layout=compact&theme=tokyonight)
+
+
