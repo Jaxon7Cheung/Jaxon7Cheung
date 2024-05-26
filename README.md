@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 2104526824@qq.com & zxy2104526824@gmail.com
 - 😄 Fun fact: I play YO-YO🪀.
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaxon7Cheung&layout=compact&theme=tokyonight)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaxon7Cheung&count_private=true&show_icons=true&theme=dracula&locale=cn)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaxon7Cheung&hide=css,html,swig,javascript&&layout=compact&locale=cn&theme=dracula)
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&random=false&width=435&lines=Hahahahah)](https://git.io/typing-svg)
 
 - ⚡️ Read more about me：
