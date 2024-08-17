@@ -4,6 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/Jaxon7Cheung)
 [![Instagram](https://img.shields.io/badge/Instagram-white?logo=instagram)](https://www.instagram.com/zxvy030419/)
 [![Tiktok](https://img.shields.io/badge/Tiktok-black?logo=tiktok)](https://www.tiktok.com/@zxvy030419?lang=en)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/profile.php?id=100011562857263)
 
 ![CSDN 数据](https://stats.justsong.cn/api/csdn?id=XY_Mckevince)
 
