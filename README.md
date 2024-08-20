@@ -1,9 +1,5 @@
 ### Hi there! 👋
 
-[![Github](https://skillicons.dev/icons?i=github)](https://github.com/Jaxon7Cheung)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/zxvy030419/)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/zhngxvyn)
-
 [![CSDN](https://img.shields.io/badge/CSDN-orange?logo=csdn)](https://blog.csdn.net/XY_Mckevince?type=blog)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/Jaxon7Cheung)
 [![Instagram](https://img.shields.io/badge/Instagram-white?logo=instagram)](https://www.instagram.com/zxvy030419/)
