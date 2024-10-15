@@ -7,8 +7,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/profile.php?id=100011562857263)
 [![Twitter](https://img.shields.io/badge/Twitter-black?logo=x)](https://x.com/zhngxvyn)
 
-![CSDN 数据](https://stats.justsong.cn/api/csdn?id=XY_Mckevince)
-
 📫 How to reach me: 2104526824@qq.com & zxy2104526824@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaxon7Cheung&show_icons=true&theme=dracula)
